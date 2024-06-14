@@ -11,8 +11,11 @@ Project Boston_Housing :
 Brief description of the project:
 
 /data: Contains datasets used in the project.
+
 /notebooks: Jupyter notebooks containing code for data preprocessing, model training, and evaluation.
+
 /scripts: Python scripts for model deployment or any additional functionalities.
+
 /models: Saved trained models or model checkpoints.
 
 Project titanic:
@@ -20,7 +23,10 @@ Project titanic:
 Brief description of the project:
 
 /data: Contains datasets used in the project.
+
 /notebooks: Jupyter notebooks containing code for data preprocessing, model training, and evaluation.
+
 /scripts: Python scripts for model deployment or any additional functionalities.
+
 /models: Saved trained models or model checkpoints.
 
