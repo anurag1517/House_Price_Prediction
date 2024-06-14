@@ -1,4 +1,5 @@
 Machine Learning Projects
+
 Overview
 This repository contains a collection of machine learning projects implemented for various purposes like house price prediction and other supervised learning models like binary classification.
 Project Structure:
