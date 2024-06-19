@@ -13,7 +13,7 @@ RMSE on test set=4.22
 
 ## Run it!
 
-colab link is added.
+just click on this [link](https://colab.research.google.com/github/anurag1517/ML_PROJECTS/blob/main/housing.ipynb)
 
 ---
 
