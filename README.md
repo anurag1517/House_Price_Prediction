@@ -65,7 +65,7 @@ I was able to make a regression model with a descent rmse and was a sense of cur
 
 #### Future Improvements
 
--Looking for other models with better rmse score.
+-Looking for other models like decision tree and random forest with better rmse score.
 -making a UI for easy interaction with model.
 
 
