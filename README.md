@@ -15,6 +15,8 @@ RMSE on test set=4.22
 
 My father went on to buy a plot and was confused about its price and I had set my foot in Machine Learning just then so got the idea of my first project.
 
+---
+
 ### What it does
 
 It gives predicted price based on the given attributes.
