@@ -11,6 +11,12 @@ RMSE on test set=4.22
 
 ---
 
+## Run it!
+
+colab link is added.
+
+---
+
 ### Inspiration 
 
 My father went on to buy a plot and was confused about its price and I had set my foot in Machine Learning just then so got the idea of my first project.
